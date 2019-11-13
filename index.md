@@ -1,3 +1,3 @@
-# Welcome to my blog
+#Delete This in Future
 
-I'm glad you are here. I plan to talk about ...
+Learning how github works would be beneficial, I guess.
