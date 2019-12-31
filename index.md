@@ -1,6 +1,6 @@
 ![Image](/photo_GM.jpg)
 # About Me
-I am Ranjan Kumar Das.
+Welcome to my homepage.  I have earned my PhD degree in Mathematics  from  IIT Guwahati in 2019.
 
 # Education
  
