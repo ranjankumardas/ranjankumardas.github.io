@@ -1,6 +1,6 @@
 ![Image](/photo_GM.jpg)
 ## About Me
-I obtained my PhD degree in Mathematics from the [Department of Mathematics](https://www.iitg.ac.in/maths), [IIT Guwahati](https://www.iitg.ac.in) under the supervision of [Prof. Rafikul Alam](https://www.iitg.ac.in/rafik/) in 2019. My thesis was on Polynomial and Rational Eigenvalue Problems. 
+I obtained my PhD degree in Mathematics from the [Department of Mathematics](https://www.iitg.ac.in/maths), [IIT Guwahati](https://www.iitg.ac.in) under the supervision of [Prof. Rafikul Alam](https://www.iitg.ac.in/rafik/) in 2019. My thesis was on the developement of direct methods for solving Polynomial and Rational Eigenvalue Problems via constructing strong linearizations of polynomial and rational matrices. 
 
 [Short CV](/CV_Ranjan.pdf)
 
