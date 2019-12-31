@@ -1,6 +1,6 @@
 ![Image](/photo_GM.jpg)
 ## About Me
-Welcome to my homepage.  I have earned my PhD degree in Mathematics  from  IIT Guwahati in 2019.
+I obtained my PhD degree in Mathematics from the [Department of Mathematics](https://www.iitg.ac.in/maths), [IIT Guwahati](https://www.iitg.ac.in) under the supervision of [Prof. Rafikul Alam](https://www.iitg.ac.in/rafik/) in 2019. My thesis was on Polynomial and Rational Eigenvalue Problems. 
 
 [Short CV](/CV_Ranjan.pdf)
 
