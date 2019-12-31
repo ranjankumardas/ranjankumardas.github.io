@@ -1,8 +1,8 @@
 ![Image](/photo_GM.jpg)
-# About Me
+## About Me
 Welcome to my homepage.  I have earned my PhD degree in Mathematics  from  IIT Guwahati in 2019.
 
-# Research Interest
+## Research Interest
 I work in the broad area of Numerical Linear Algebra and Matrix Theory.
 
 My research interests includes
@@ -14,7 +14,7 @@ My research interests includes
 
 
 
-# Education
+## Education
 * Ph.D.: Indian Institute of Technology Guwahati, India (2013-2019)
         
          Thesis Advisor: Prof. Rafikul Alam
