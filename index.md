@@ -2,6 +2,8 @@
 ## About Me
 Welcome to my homepage.  I have earned my PhD degree in Mathematics  from  IIT Guwahati in 2019.
 
+[Short CV](/CV_Debasish.pdf)
+
 ## Research Interest
 I work in the broad area of Numerical Linear Algebra and Matrix Theory.
 
