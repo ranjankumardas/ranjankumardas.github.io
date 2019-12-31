@@ -29,8 +29,8 @@ My research interests includes
  
  
 ## Publications 
-* R. K. Das and R. Alam, [Affine spaces of strong linearizations for rational matrices and the recovery of eigenvectors and minimal bases, Linear Algebra Appl., 569 (2019), pp. 335-368.](https://doi.org/10.1016/j.laa.2019.02.001)
+* R. K. Das and R. Alam, [Affine spaces of strong linearizations for rational matrices and the recovery of eigenvectors and minimal bases](https://doi.org/10.1016/j.laa.2019.02.001) Linear Algebra Appl., 569 (2019), pp. 335-368.
 
-* R. K. Das and R. Alam, Recovery of minimal bases and minimal indices of rational matrices from Fiedler-like pencils, Linear Algebra Appl., 566 (2019), pp. 34-60. [](https://doi.org/10.1016/j.laa.2018.12.021)
+* R. K. Das and R. Alam, [Recovery of minimal bases and minimal indices of rational matrices from Fiedler-like pencils](https://doi.org/10.1016/j.laa.2018.12.021) Linear Algebra Appl., 566 (2019), pp. 34-60.
 
-* R. K. Das and R. Alam, Automatic recovery of eigenvectors and minimal bases of matrix polynomials from generalized Fiedler pencils with repetition, Linear Algebra Appl., 569 (2019), pp. 78-112. [](https://doi.org/10.1016/j.laa.2019.01.013)
+* R. K. Das and R. Alam, [Automatic recovery of eigenvectors and minimal bases of matrix polynomials from generalized Fiedler pencils with repetition](https://doi.org/10.1016/j.laa.2019.01.013) Linear Algebra Appl., 569 (2019), pp. 78-112.
