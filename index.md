@@ -18,11 +18,10 @@ My research interests includes
 
 ## Education
 * Ph.D.: [Indian Institute of Technology Guwahati](https://www.iitg.ac.in/), India (2013-2019)
-        
-         Thesis Advisor: Prof. Rafikul Alam
-         Thesis Title: Strong Linearizations of Polynomial and Rational Matrices and Recovery of Spectral Data
-         Thesis submission on 1st April 2019
-         Thesis defended on 30th August 2019
+  * Thesis Advisor: Prof. Rafikul Alam
+  * Thesis Title: Strong Linearizations of Polynomial and Rational Matrices and Recovery of Spectral Data
+  * Thesis submission on 1st April 2019
+  * Thesis defended on 30th August 2019
          
  * M.Sc.: [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/), India (2010-2012)
  
