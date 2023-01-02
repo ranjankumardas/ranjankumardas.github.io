@@ -15,8 +15,8 @@ My research interests includes
 * Perturbation Theory for Rational Eigenvalue Problems.
  
 ## Postdoctoral Experience
-* Jan 2022--Continue J. J. Strossmayer University of Osijek, Croatia
-* October 2020- October 2021, Deartment Of Electrical Engineering, IIT Bombay, India 
+* Jan 2022--Continue at Department of Mathematics, J. J. Strossmayer University of Osijek, Croatia
+* October 2020- October at 2021, Deartment Of Electrical Engineering, IIT Bombay, India 
   
 
 
