@@ -34,9 +34,9 @@ My research interests includes
  
  
 ## Publications 
-* R. K. Das and R. Alam, [Palindromic linearizations of palindromic matrix polynomials of odd degree obtained from Fiedler-like pencils](\href{https://doi.org/10.1007/s10013-020-00444-w}) {\em Vietnam Journal of Mathematics, 48 (2020), pp. 865--891.}
+* R. K. Das and R. Alam, [Palindromic linearizations of palindromic matrix polynomials of odd degree obtained from Fiedler-like pencils](https://doi.org/10.1007/s10013-020-00444-w) {\em Vietnam Journal of Mathematics, 48 (2020), pp. 865--891.}
   
-* R. K. Das and R. Alam, [Structured strong linearizations of structured rational matrices](\href{https://www.tandfonline.com/doi/full/10.1080/03081087.2021.1945525}) {\em Linear And MultiLinear Algebra, 2021, pp. 1-34.} 
+* R. K. Das and R. Alam, [Structured strong linearizations of structured rational matrices](https://www.tandfonline.com/doi/full/10.1080/03081087.2021.1945525) {\em Linear And MultiLinear Algebra, 2021, pp. 1-34.} 
 
 * R. K. Das and R. Alam, [Affine spaces of strong linearizations for rational matrices and the recovery of eigenvectors and minimal bases](https://doi.org/10.1016/j.laa.2019.02.001) Linear Algebra Appl., 569 (2019), pp. 335-368.
 
